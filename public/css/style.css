@@ -1,0 +1,26 @@
+.content-body{
+  height: 100%;
+  width: 100%;
+}
+.label{
+  display: inline-flex;
+  width: 100%;
+  height: 100%;
+}
+.a{
+  width: 20%;
+}
+.b{
+  width: 50%;
+}
+.sidebar{
+  background: lightblue;
+  height: 100%;
+}
+.main-content{
+  width: 80%
+  left: 20%;
+}
+.app{
+  height: 100%;
+}
